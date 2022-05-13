@@ -1,2 +1,4 @@
 welcome to the world of coding
-second comit 
+second commit
+corrected spelling of 'commit'
+ 
