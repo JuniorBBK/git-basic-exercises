@@ -1,0 +1,61 @@
+    1  Is
+    2  ls
+    3  ls < 3D\ Objects/Junior\'s\ Work/
+    4  cd Desktop/
+    5  mkdir junior-work
+    6  cd junior-work/
+    7  mkdir git-basic-exercises
+    8  cd git-basic-exercises/
+    9  ls -a
+   10  git init
+   11  ls -a
+   12  git status
+   13  touch README.md
+   14  ls -a
+   15  git status
+   16  git log
+   17  git add README.md 
+   18  git status
+   19  cd Desktop/
+   20  cd junior-work/
+   21  cd git-basic-exercises/
+   22  git status
+   23  git rm --cached README.md 
+   24  git status
+   25  git add README.md 
+   26  git commit -m "initial commit" 
+   27  git config --global user.email "you@example.com"
+   28  git config --global user.email "buhhle2k16@gmail.com"
+   29  git config --global user.name "Junior-BBK"
+   30  git commit -m "initial commit" 
+   31  git log
+   32  nano README.md 
+   33  cat README.md 
+   34  git status
+   35  git add README.md 
+   36  git commit -m "second commit"
+   37  nano README.md 
+   38  git add README.md 
+   39  git commit -m "third commit"
+   40  git log
+   41  git checkout  2b3e4cce685769422345d41aaee47cf0126c2cab
+   42  cat README.md 
+   43  git checkout main
+   44  git checkout master
+   45  cat README.md 
+   46  git branch
+   47  git branch milkshake-flavours
+   48  git branch 
+   49  git checkout
+   50  git checkout milkshake-flavours 
+   51  nano milkshakes.md
+   52  git status
+   53  git add milkshakes.md 
+   54  git commit -m "added initial flavours"
+   55  git log
+   56  git checkout master
+   57  git branch history
+   58  git checkout history
+   59  git log
+   60  git branch 
+   61  history > history.txt
